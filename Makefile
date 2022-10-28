@@ -1,3 +1,5 @@
+#Dummy change
+
 # simple makefile to simplify repetitive build env management tasks under posix
 
 # caution: testing won't work on windows, see README
